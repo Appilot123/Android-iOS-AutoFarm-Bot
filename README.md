@@ -88,3 +88,15 @@ The original request came from a forum discussion where a developer was looking 
 | Multi-Device Controller | Manage and sync commands across a full farm from one control panel.        |
 
 
+## Key Stats:
+- **Automation Accuracy:** 98.4%
+- **24/7 Session Uptime:** Engineered for long-running tasks with minimal crashes
+- **Concurrent Device Support:** Up to 100+ devices per hub
+- **Detection Rate:** <1% flagged across major platforms using spoofing + randomized logic
+
+## Built With:
+- **Languages:** Python, Node.js
+- **Frameworks:** Appium, Playwright, Appilot
+- **Device Control**: ADB, XCUITest
+- **Stealth Tech**: Proxy rotation, Device spoofing, IP isolation
+- **Deployment**: VPS, local machine, or Raspberry Pi for phone farm hubs
